@@ -15,5 +15,5 @@
  */
 ClassLoader::addClasses(array
 (
-    'Asc\PreloadForm' => 'system/modules/asc_preload_form/library/Asc/PreloadForm.php',
+    'Asc\PreloadForm' => 'system/modules/asc_preload_forms/library/Asc/PreloadForm.php',
 ));
